@@ -1,5 +1,5 @@
 ## Hi There, Welcome To CavLAB 👋
-
+For members, checkout the special ".github-private" to get started.
 <!--
 
 **Here are some ideas to get you started:**
